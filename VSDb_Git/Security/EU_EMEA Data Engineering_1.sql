@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [EU\EMEA Data Engineering]
-    FROM WINDOWS WITH DEFAULT_DATABASE = [EMEA_DS], DEFAULT_LANGUAGE = [us_english];
-
